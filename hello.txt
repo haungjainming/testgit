@@ -7,5 +7,11 @@ This is the sixth test 666666
 This is the seventh testt 7777
 This is the eightth test 8888
 
+<<<<<<< HEAD
 
 现在测试冲突:1010101010
+=======
+现在测试冲突：99999999
+>>>>>>> fenzhi01
+
+hahahahha
